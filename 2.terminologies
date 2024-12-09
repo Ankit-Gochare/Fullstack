@@ -1,0 +1,55 @@
+## Network
+-> system connecting many resources with each other
+-> communication , resource sharing , conversation
+-> can be wired or can be wireless
+-> can be of diffrent-diffrent scales
+
+#1. LAN :-
+-> Local Area Network
+-> building level
+
+#2. MAN :- 
+-> Metropolitan Area Network
+-> city level network
+
+#3. WAN :-
+-> Wide Area Network
+-> country level 
+
+
+## Internet 
+-> network of networks
+-> global system 
+-> billions of devices
+
+## www
+-> World wide web
+-> interconnected documents and resources
+-> accessed using the internet
+
+## Ip address
+-> Internet Protocol address
+-> unique numerical identifier assigned to each device connected to a computer network
+-> to connect one system to another ip address is required
+
+## Browser
+-> tool to access the doc , resources , website , web applications etc. from the internet
+
+## Browser Engine 
+->  known as a rendering engine
+-> A browser engine (also known as a rendering engine) is the core software component of a web browser responsible for interpreting and rendering web content, including HTML, CSS, JavaScript, and images, to display a webpage to the user.
+-> Blink , Webkit , Gecko , Trident , EdgeHTML.
+
+## Client / Server Model
+-> one  computer request and the other computer gives response after processing the request.
+-> requests are like get , host
+-> the computer requesting is client (laptop , pc mobile , browser , app comand line interface)
+-> the computer responsing is Server (database server , file server , app server , web server , email server etc.)
+
+** How the facebook website opens
+-> user (cklient ) send an request using 
+-> www.facebook.com (domain name resolution)
+-> DNS server converts the domain name to ip address
+-> now the request reached to the server
+-> then the response is sent to the user (client)
+
