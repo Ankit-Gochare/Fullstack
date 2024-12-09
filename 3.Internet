@@ -49,5 +49,7 @@
 ** command to print the ip address of www. google .com
 -> nslookup www.google.com
 
-## How Internet works?
-->
+## OSI Model
+-> seven layer
+
+## TCP/IP Model
