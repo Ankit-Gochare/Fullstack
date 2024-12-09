@@ -1,0 +1,50 @@
+complete WEB DEV using MERN stack 
+by LOVE BABBAR
+
+## What is Web  
+-> system where doc and resources are interconnected which are accessed using interenet 
+-> Subset of internet
+
+## Web development
+-> Website and Web application development 
+
+## Website
+-> multi web pages with static content
+-> Read only pages 
+like wikipedia 
+
+## Web Applications
+-> Dynamic content
+like linkedin , instagram 
+
+1. Frontend / User interface
+
+2. Backend
+
+3. Database layer
+
+## Frontend
+-> Visual appearance & user interface
+-> html ,css , javascript
+-> Frontend engineer
+
+## Backend
+-> brain of web app, Logic and working
+-> 
+-> Backend engineer
+
+## Data Base layer
+-> storage of data
+-> SQL , No SQL
+-> Mongo DB
+
+## Full Stack Web Development
+-> Frontend
+-> Backend 
+-> Data Base layer
+
+## MERN stack
+-> M = Mongo DB
+-> E = Express.js
+-> R = React
+-> N = Node.js
