@@ -1,0 +1,53 @@
+## Internet
+-> Inter :- inter connected
+-> net :- networks
+-> Inter connected networks
+-> ARPANET(1960) :- data is sent using small chunks (packet)
+-> Domain name system(1980)
+-> Email ,messaging (1990)
+-> Mobile , facebook (2000)
+
+## Packet
+-> files of large size are converted into small chunks and then sent to the destination and there they reunite and make the original files
+-> User A (sender)
+-> user B (receiver)
+-> there are four layers
+-> Application layer :- protocol
+-> TCP layer :- PORT NO. of destination
+-> IP layer ;- ip address of destination
+-> Hardware 
+
+
+## Protocol 
+-> set of rules
+-> SMTP , HTTP , FTP etc.
+-> gmail uses SMTP protocal (Simple mail transporting protocol) to send mails
+
+## What is ipv4
+-> IPv4 addresses are 32 bits long, typically written in dotted decimal format
+-> IPv4 address: 192.168.1.1
+
+## why is the need for ipv6
+-> IPv4 uses 32-bit addresses, which allows for only about 4.3 billion unique IP addresses (2^32).
+-> IPv6 uses 128-bit addresses, which provides an enormous increase in address space: 2^128 addresses, or about 340 undecillion (340 followed by 36 zeros) unique IP addresses.
+
+## ISP(Internet service provider)
+-> jio , airtel , vi , bsnl etc.
+
+## Packet travel 
+-> 1.client ------>request sent
+-> 2.multiple router(verify the Ip address from the routing table)(if not verified then request sent to the parent router)(if verified then the request routed)------>
+-> 3.Local ISP(Internet Service provider) :- checks the ip address of the destination if not known then 
+-> 4.Regional ISP(Internet Service provider) :- checks the ip address of the destination if not known then
+-> 5.National ISP(Internet Service provider) :- checks the ip address of the destination if known then
+-> 6.multiple router------->
+-> 7.Server gets the request
+
+## Router 
+-> connects multiple networks(wifi etc.)
+
+** command to print the ip address of www. google .com
+-> nslookup www.google.com
+
+## How Internet works?
+->
